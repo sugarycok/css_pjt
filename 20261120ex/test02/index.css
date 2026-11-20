@@ -1,0 +1,22 @@
+#wrap{
+    width: 1500px;
+    margin: 10px auto;
+}
+
+#wrap div.wrap_flower{
+    margin: 0 auto;
+}
+
+#wrap div.wrap_flower img{
+    width: 300px;
+    min-width: 250px;
+    max-width: 250px;
+    padding: 25px;
+}
+
+#wrap div.wrap_info span{
+    display: block;
+    width: 300px;
+    text-align: center;
+}
+
